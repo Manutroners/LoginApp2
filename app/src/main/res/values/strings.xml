@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="nombre">Nombre</string>
+    <string name="DNI">DNI</string>
+    <string name="guardar">Guardar Credenciales</string>
+    <string name="botonAceptar">Acceder</string>
+    <string name="botonBorrar">Borrar Credenciales</string>
+</resources>
